@@ -16,7 +16,7 @@ class Acclamator_class(venator):
 
     def mostrar_informacion(self):
         base_info = super().mostrar_informacion()
-        return f"{base_info}, activando {self._modo_de_disparo}"
+        return f"{base_info}, activando disparo multiple: {self._modo_de_disparo}"
 
 
 

@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="712a0e6b-9c0b-4648-a3a0-8d25ac258637" name="Changes" comment="ex" />
+    <list default="true" id="712a0e6b-9c0b-4648-a3a0-8d25ac258637" name="Changes" comment="ex">
+      <change beforePath="$PROJECT_DIR$/ClassAcclamator_class.py" beforeDir="false" afterPath="$PROJECT_DIR$/ClassAcclamator_class.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClassII_Star.py" beforeDir="false" afterPath="$PROJECT_DIR$/ClassII_Star.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClassSecutor_Battlecruiser.py" beforeDir="false" afterPath="$PROJECT_DIR$/ClassSecutor_Battlecruiser.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +25,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "MasterfordTM"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/MasterfordTM/examen-3-.git",
+    "accountId": "589ebcf2-b9a3-4fb1-afed-8bfdeb7d4ddd"
+  }
+}]]></component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -72,7 +89,7 @@
       <workItem from="1731611680649" duration="3657000" />
       <workItem from="1731632489242" duration="4075000" />
       <workItem from="1731694596440" duration="2126000" />
-      <workItem from="1731973200909" duration="340000" />
+      <workItem from="1731973200909" duration="2896000" />
     </task>
     <task id="LOCAL-00001" summary="ex">
       <option name="closed" value="true" />
@@ -82,11 +99,30 @@
       <option name="project" value="LOCAL" />
       <updated>1731973537289</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="ex">
+      <option name="closed" value="true" />
+      <created>1731974223402</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1731974223402</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ex" />
@@ -95,5 +131,6 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/examen_tema_3$ClassSagrgento.coverage" NAME="ClassSagrgento Coverage Results" MODIFIED="1731552598154" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/examen_tema_3$republica_.coverage" NAME="republica  Coverage Results" MODIFIED="1731451400317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/examen_tema_3$main.coverage" NAME="main Coverage Results" MODIFIED="1731986056402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
