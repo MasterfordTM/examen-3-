@@ -13,5 +13,5 @@ class Acclamator(Secutor_class_Battlecruiser):
 
     def mostrar_informacion(self):
         base_info = super().mostrar_informacion()
-        return f"{base_info},suministros de la nave {self._capacidad_suministro}"
+        return f"{base_info},reporte de suministros de la nave {self._capacidad_suministro}"
 
