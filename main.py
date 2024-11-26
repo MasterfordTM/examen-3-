@@ -10,6 +10,7 @@ def main():
     destroyer.set_sistema_hangar("una compuerta lateral")
     destroyer.set_comunicaciones_bloqueo("sistema de bloque de comunicaciones")
     destroyer.set_capacidad_de_cazas(10)
+    destroyer.set_Aumenta_escudos(20)
 
 
     aclamator=Acclamator_class()
@@ -17,6 +18,7 @@ def main():
     aclamator.set_sistema_hangar("una compuerta lateral y una inferior")
     aclamator.set_capacidad_de_cazas(40)
     aclamator.set_equipo("disparo continuo")
+
 
     aclamator_ship=Acclamator()
     aclamator_ship.set_rol("infiltracion")

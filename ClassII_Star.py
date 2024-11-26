@@ -21,7 +21,7 @@ class II_Star_Destroyer(venator):
 
     def mostrar_informacion(self):
         base_info = super().mostrar_informacion()
-        return f"{base_info},activando sistema de :{self._comunicaciones_bloqueo},aumentando el escudo :{self._Aumenta_escudos}"
+        return f"{base_info},activando sistema de :{self._comunicaciones_bloqueo},aumentando el escudo de los aliados :{self._Aumenta_escudos}"
 
 
 
