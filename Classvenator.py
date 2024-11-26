@@ -24,6 +24,6 @@ class venator:
         self._rol = rol
 
     def mostrar_informacion(self):
-        return f" dezplegando cazas : {self._capacidad_de_cazas}, abriendo hangar: {self._sistema_hangar}, rol: {self._rol}"
+        return f" cantidad de cazas  : {self._capacidad_de_cazas}, abriendo hangar: {self._sistema_hangar}, rol: {self._rol}"
 
 

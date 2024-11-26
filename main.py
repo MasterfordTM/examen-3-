@@ -8,7 +8,7 @@ def main():
     destroyer=II_Star_Destroyer()
     destroyer.set_rol("apoyo")
     destroyer.set_sistema_hangar("una compuerta lateral")
-    destroyer.set_comunicaciones_bloqueo("sistema estandar")
+    destroyer.set_comunicaciones_bloqueo("sistema de bloque de comunicaciones")
     destroyer.set_capacidad_de_cazas(10)
 
 
