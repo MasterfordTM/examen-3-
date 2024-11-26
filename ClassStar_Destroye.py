@@ -28,7 +28,7 @@ class Star_Destroye(venator):
 
     def mostrar_informacion(self):
         base_info = super().mostrar_informacion()
-        return f"{base_info}, representación de la potencia de ataque en turboláseres {self._poder_de_fuego}, cañones para desactivar sistemas enemigos {self._sistema_iones}. reputacion: {self._reputacion} "
+        return f"{base_info}, nivel de ataque {self._poder_de_fuego}, sistema cargado y listo {self._sistema_iones}. reputacion: {self._reputacion} "
 
 
 
