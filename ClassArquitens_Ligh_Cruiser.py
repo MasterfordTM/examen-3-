@@ -19,7 +19,7 @@ class Arquitens_0class_Light_Cruiser:
         self._escudoEspecial = escudoEspecial
 
     def mostrar_informacion(self):
-        return f" tipo de camuflaje: {self._sistema_sigilo}, caracteristicas del escudo: {self._escudoEspecial}"
+        return f" activando camuflaje: {self._sistema_sigilo}, caracteristicas del escudo: {self._escudoEspecial}"
 
 
 

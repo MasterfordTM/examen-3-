@@ -26,7 +26,7 @@ def main():
     aclamator_ship.set_sistema_hangar("doble compuerta superior")
     aclamator_ship.set_escudoEspecial("anti radiacion")
     aclamator_ship.set_sistema_sigilo("tactico a largo y corto alcance")
-    aclamator_ship.set_nave_estacion("sirve como estacion de reparacion")
+    aclamator_ship.set_nave_estacion(" reparacion y mantenimiento ")
     aclamator_ship.set_poder_de_fuego(4)
     aclamator_ship.set_reputacion("el salvavidas")
 
